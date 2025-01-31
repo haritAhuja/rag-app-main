@@ -106,8 +106,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🤝 Contributing
 
-Feel free to submit issues or PRs on [GitHub](https://github.com/haritAhuja/rag-app-main).
 
-Happy coding! 🚀
